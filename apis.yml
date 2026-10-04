@@ -39,7 +39,6 @@ apis:
   - name: CTS
     description: "CTS Realtime API"
     humanURL: https://api.cts-strasbourg.eu/
-    baseURL: https://api.cts-strasbourg.eu/
     tags:
       - Transportation
     properties:
